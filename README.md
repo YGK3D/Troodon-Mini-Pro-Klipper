@@ -1,7 +1,9 @@
 # Troodon-Mini-Pro-Klipper
 
 ** REMEMBER TO UPDATE THE SERIAL NUMBER IN THE PRINTER.CFG WITH THE ONE CORRESPONDING TO YOUR PRINTER **
+
 ** SSH into the printer (username biqu, password biqu) and send ls /dev/serial/by-id/* **
+
 ** Copy the serial number and replace the one currently in the [mcu] section of the config **
 
 A Klipper config for Troodon Mini Pro
